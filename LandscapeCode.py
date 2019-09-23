@@ -29,6 +29,12 @@ mike.right(-45)
 mike.forward(200)
 mike.right(90)
 mike.forward(200)
+mike.penup()
+mike.goto(-134,-10)
+mike.pendown()
+mike.color("Pale Goldenrod")
+mike.right(42)
+mike.forward(100)
 
 
 turtle.exitonclick()
