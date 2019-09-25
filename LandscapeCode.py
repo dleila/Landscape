@@ -254,5 +254,4 @@ bob.penup()
 bob.color("Light Sky Blue")
 bob.goto(200,130)
 
-
 turtle.exitonclick()
