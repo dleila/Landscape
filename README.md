@@ -1,8 +1,10 @@
 # Landscape Artwork
-I made this landscape with a house, tree and a person using Python. 
+I made this landscape with a house, trees and clouds using Python. 
+
+![Landscape](/LandscapeSreenshot.PNG)
 
 ### To-Do
-- [ ] Write code
-- [ ] Make README
-- [ ] Take screenshot
+- [x] Write code
+- [x] Make README
+- [x] Take screenshot
 - [ ] Submit assignment
