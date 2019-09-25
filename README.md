@@ -1,7 +1,6 @@
 # Landscape Artwork
 I made this landscape with a house, trees and clouds using Python. 
 
-![Landscape](/LandscapeSreenshot.PNG)
 
 ### To-Do
 
@@ -12,3 +11,6 @@ I made this landscape with a house, trees and clouds using Python.
 - [x] Take screenshot
 
 - [ ] Submit assignment
+
+
+![Landscape](/LandscapeSreenshot.PNG)
