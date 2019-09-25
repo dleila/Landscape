@@ -13,4 +13,4 @@ I made this landscape with a house, trees and clouds using Python.
 - [ ] Submit assignment
 
 
-![Landscape](/LandscapeScreenshot)
+![Landscape](/Capture.PNG)
